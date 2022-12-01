@@ -1,0 +1,31 @@
+@import "https://fonts.googleapis.com/css2?family=Megrim&display=swap";
+@import "https://fonts.googleapis.com/css2?family=NerkoOne&display=swap";
+body{
+  overflow: hidden;
+  margin: 0;
+}
+#word{
+  font-family: Megrim, cursive;
+  font-size: 13vh;
+  position: absolute;
+  bottom: 0;
+  left: auto;
+  right: auto;
+  margin: 10;
+  /*bottom: 0;*/
+  color: #fc0;
+  -webkit-text-stroke: 0.3vh rgb(255, 42, 0);
+}
+
+.mark {
+  font-family: Megrim, cursive;
+  font-size: 15vh;
+  position: absolute;
+  top: 0;
+  left: auto;
+  right: auto;
+  margin: 10;
+  /*bottom: 0;*/
+  color: #fc0;
+  -webkit-text-stroke: 0.3vh rgb(255, 42, 0);
+}
